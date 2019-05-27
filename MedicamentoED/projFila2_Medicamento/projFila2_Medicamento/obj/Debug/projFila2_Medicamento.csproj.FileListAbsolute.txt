@@ -1,0 +1,7 @@
+C:\Users\Uérriton\Desktop\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.exe.config
+C:\Users\Uérriton\Desktop\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.exe
+C:\Users\Uérriton\Desktop\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.pdb
+C:\Users\Uérriton\Desktop\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.csprojAssemblyReference.cache
+C:\Users\Uérriton\Desktop\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.csproj.CoreCompileInputs.cache
+C:\Users\Uérriton\Desktop\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.exe
+C:\Users\Uérriton\Desktop\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.pdb
